@@ -1,18 +1,29 @@
-# REACT-dtmoney  -  Getting Started with Create React App
+# React.JS - Desafio Rocketseat
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
+### Aplicação dtmoney - Controle de Transações Financeiras
 
-In the project directory, you can run:
+Funcionalidades:
+- Adiciona Transação
+- Listagem de todas as Transações
+- Dashboard com os totais de Entrada, Saída e Saldo Total
+
+<br>
+
+### Getting Started with Create React App
+
+<br>
+
+### Script disponível
+No diretório do projeto, você pode executar:
 
 ### `yarn start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Executa o aplicativo em modo de desenvolvimento.\
+Abra [http://localhost:3000](http://localhost:3000) para vê-lo no navegador.
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+A página será recarregada se você fizer edições.\
+Você também verá qualquer trecho de erros no console.
 
 ### `yarn build`
 
